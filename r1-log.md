@@ -3,6 +3,17 @@
 Started on January 3, Sunday, 2021.
 
 ## Log
+
+### Day 1: January 3, 2021
+
+**Today's Progress:** Used the Canvas API to create a star field in JS and HTML
+
+**Thoughts:** I was afraid that I may not know enough JavaScript to pull this off but I think accepting it and be willing to learn it, helped me accomplish this today.
+
+**Link to work:** [GitHub repo](https://github.com/krithvi/krithvi.github.io) -> commits = {'Add Star Field'}
+
+**References:** [Medium Article on creating a star field](https://medium.com/better-programming/fun-with-html-canvas-lets-create-a-star-field-a46b0fed5002)
+
 <!--
 Sample
 ### Day 0: February 30, 2016 (Example 1)
