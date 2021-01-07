@@ -20,6 +20,22 @@ Started on January 3, Sunday, 2021.
 
 **Thoughts:** The Twitter API turned out to be much more complex than I expected. So I had to learn the fundamentals first before setting out to build something with it.
 
+### Day 3: January 5, 2021
+
+**Today's Progress**: Worked on Personal Website(pw) 
+
+**Thoughts:** Improved the CSS a little but too much time was consumed in the tweaking of elements.
+
+**Link to work:** [GitHub repo][home] -> commits = {'Add content over Star bg'}
+
+### Day 4: January 7, 2021
+
+**Today's Progress**: Added a custom 404 page to pw and learnt more about YAML.
+
+**Thoughts:** Even though I did satisfactory work today, I still think I could have squeezed in more work.
+
+**Link to work:** [GitHub repo][home] -> commits = {'Add Custom 404'}
+
 <!--
 Sample
 ### Day 0: February 30, 2016 (Example 1)
@@ -30,5 +46,6 @@ Sample
 
 **Link to work:** [Calculator App](http://www.example.com)
 -->
+
 <!-- link references -->
 [home]: https://github.com/krithvi/krithvi.github.io
