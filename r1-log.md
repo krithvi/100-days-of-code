@@ -22,7 +22,7 @@ Started on January 3, Sunday, 2021.
 
 ### Day 3: January 5, 2021
 
-**Today's Progress**: Worked on Personal Website(pw) 
+**Today's Progress**: Worked on [Personal Website][pw] 
 
 **Thoughts:** Improved the CSS a little but too much time was consumed in the tweaking of elements.
 
@@ -30,11 +30,17 @@ Started on January 3, Sunday, 2021.
 
 ### Day 4: January 7, 2021
 
-**Today's Progress**: Added a custom 404 page to pw and learnt more about YAML.
+**Today's Progress**: Added a custom 404 page to [Personal Website][pw] and learnt more about YAML
 
 **Thoughts:** Even though I did satisfactory work today, I still think I could have squeezed in more work.
 
 **Link to work:** [GitHub repo][home] -> commits = {'Add Custom 404'}
+
+### Day 5: January 9, 2021
+
+**Today's Progress**: Learned about HTTP and Inspect Network Activity of Chrome DevTools
+
+**Thoughts:** Even though I did some work yesterday it didn't feel enough. Today I had a productive evening and made some progress.
 
 <!--
 Sample
@@ -49,3 +55,4 @@ Sample
 
 <!-- link references -->
 [home]: https://github.com/krithvi/krithvi.github.io
+[pw]: krithvi.github.io
