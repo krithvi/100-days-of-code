@@ -42,6 +42,24 @@ Started on January 3, Sunday, 2021.
 
 **Thoughts:** Even though I did some work yesterday it didn't feel enough. Today I had a productive evening and made some progress.
 
+**References:** [Crio Winter of Doing][crio]
+
+### Day 6: January 10, 2021
+
+**Today's Progress**: Learned about HTTP and Inspect Network Activity of Chrome DevTools
+
+**Thoughts:** I wish I knew what I learned today sooner.
+
+**References:** [Crio Winter of Doing][crio]
+
+### Day 7: January 14, 2021
+
+**Today's Progress**: Learned about cURL command and HTTP Requests
+
+**Thoughts:** Took an unexpectedly long gap before returning to code but atleast I'm back now.
+
+**References:** [Crio Winter of Doing][crio]
+
 <!--
 Sample
 ### Day 0: February 30, 2016 (Example 1)
@@ -55,4 +73,5 @@ Sample
 
 <!-- link references -->
 [home]: https://github.com/krithvi/krithvi.github.io
-[pw]: krithvi.github.io
+[pw]: https://krithvi.github.io/
+[crio]: https://www.crio.do/
