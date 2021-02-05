@@ -60,6 +60,69 @@ Started on January 3, Sunday, 2021.
 
 **References:** [Crio Winter of Doing][crio]
 
+### Day 8: January 15, 2021
+
+**Today's Progress**: Learned about REST API
+
+**Thoughts:** I wish I could learn at a faster rate.
+
+**References:** [Crio Winter of Doing][crio]
+
+### Day 9: January 20, 2021
+
+**Today's Progress**: Learned about Linux Commands
+
+**Thoughts:** The `tree` command blew my mind. 
+
+**References:** [Crio Winter of Doing][crio]
+
+### Day 10: January 22, 2021
+
+**Today's Progress**: Learned about AWS
+
+**Thoughts:** AWS seems like an easy and complicated at the same time.
+
+**References:** [Crio Winter of Doing][crio]
+
+### Day 11: January 24, 2021
+
+**Today's Progress**: Refreshed on Git Basics
+
+**Thoughts:** Guess I am doing alternate days now.
+
+**References:** [Crio Winter of Doing][crio]
+
+### Day 12: February 1, 2021
+**Today's Progress**: Learning to code a Tetris game using JS (1/)
+
+**Thoughts:** Finally started this for good after ignoring the open tab with the tutorial for months.
+
+**References:** [freeCodeCamp's Tetris game with JS Tutorial][tetrisJS]
+
+### Day 13: February 2, 2021
+**Today's Progress**: Learning to code a Tetris game using JS (2/) - HTML and CSS Refresher
+
+**Thoughts:** Using Google Sheets to map out Grid and Tetromino position values is a neat way to plan the code. Should utilise more such tools for solving other coding problems.
+
+**References:** [freeCodeCamp's Tetris game with JS Tutorial][tetrisJS]
+### Day 14: February 4, 2021
+**Today's Progress**: Learning to code a Tetris game using JS (3/) - Learning about JavaScript methods
+
+**Thoughts:** Feels like I am learning JS all over again but this time I feel like it'll stick with me.
+
+**Link to work:** [GitHub repo][homemade-tetris] -> commits = {'Basic Layout and Tetraminoes'}
+
+**References:** [freeCodeCamp's Tetris game with JS Tutorial][tetrisJS]
+
+### Day 15: February 5, 2021
+**Today's Progress**: Learning to code a Tetris game using JS (4/4) - Even more JavaScript methods
+
+**Thoughts:** The methods learned today need to be used more frequently to understand them more clearly.
+
+**Link to work:** [GitHub repo][homemade-tetris] -> commits = {'Add Basic Game', 'Add Game Functionality', 'Add Colors'}
+
+**References:** [freeCodeCamp's Tetris game with JS Tutorial][tetrisJS] 
+
 <!--
 Sample
 ### Day 0: February 30, 2016 (Example 1)
@@ -75,3 +138,5 @@ Sample
 [home]: https://github.com/krithvi/krithvi.github.io
 [pw]: https://krithvi.github.io/
 [crio]: https://www.crio.do/
+[tetrisJS]: https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/
+[homemade-tetris]: https://github.com/krithvi/homemade-tetris
