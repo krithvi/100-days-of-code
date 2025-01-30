@@ -7,7 +7,7 @@ Started on December 7, Saturday, 2024.
 
 **Today's Progress:** Updated Spotify Now Playing and Bio in me repo. Continued rewatching freeCodeCamp Tetris tutorial 
 
-**Thoughts:** r
+**Thoughts:** I still can't figure out why the empty grids are not displayed
 
 [**Link to work:**]::
 
