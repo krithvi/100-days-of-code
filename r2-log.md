@@ -1,8 +1,18 @@
-# #100DaysOfCode Log - Round 2 - December 2024
+# #100DaysOfCode Log - Round 2 - Early 2025
 
 Started on December 7, Saturday, 2024.
 
 ## Log
+### Day 2: January 29, 2025
+
+**Today's Progress:** Updated Spotify Now Playing and Bio in me repo. Continued rewatching freeCodeCamp Tetris tutorial 
+
+**Thoughts:** r
+
+[**Link to work:**]::
+
+**References:** [freeCodeCamp's Tetris game JS Tutorial][tetrisJS] 
+
 
 ### Day 1: December 7, 2024
 
@@ -13,6 +23,7 @@ Started on December 7, Saturday, 2024.
 [**Link to work:**]::
 
 **References:** [freeCodeCamp's Tetris game JS Tutorial][tetrisJS] 
+
 
 <!-- link references -->
 [tetrisJS]: https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/
